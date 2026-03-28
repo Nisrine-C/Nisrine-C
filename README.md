@@ -1,6 +1,11 @@
+# 👋 Hi, I'm Nisrine
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nisrine-c-a8520a235) 
+I'm a software engineer focused on building scalable backend systems and distributed applications. I enjoy designing clean architectures, working with data-intensive systems, and exploring how AI can be integrated into real-world solutions.
+
+🔧 Most of my work revolves around backend development with Spring, microservices, and API design, along with experience in full-stack development and machine learning.
+
+🌐 Portfolio: https://your-portfolio-link.com  
+🔗 LinkedIn: https://linkedin.com/in/nisrine-c-a8520a235
 
 # 💻 Tech Stack:
 
