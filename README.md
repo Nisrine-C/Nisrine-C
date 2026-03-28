@@ -4,8 +4,8 @@ I'm a software engineer focused on building scalable backend systems and distrib
 
 🔧 Most of my work revolves around backend development with Spring, microservices, and API design, along with experience in full-stack development and machine learning.
 
-🌐 Portfolio: https://www.chakirnisa.dev/
-🔗 LinkedIn: https://linkedin.com/in/nisrine-c-a8520a235
+🌐 Portfolio: (https://www.chakirnisa.dev/)
+🔗 LinkedIn: (https://linkedin.com/in/nisrine-c-a8520a235)
 
 # 💻 Tech Stack:
 
