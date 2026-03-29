@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Nisrine
+# Hi, There.
 
 I'm a software engineer focused on building scalable backend systems and distributed applications. I enjoy designing clean architectures, working with data-intensive systems, and exploring how AI can be integrated into real-world solutions.
 
-🔧 Most of my work revolves around backend development with Spring, microservices, and API design, along with experience in full-stack development and machine learning.
+Most of my work revolves around backend development with Spring, microservices, and API design, along with experience in full-stack development and machine learning.
 
-🌐 Portfolio: [chakirnisa.dev](https://www.chakirnisa.dev/)</br>
-🔗 LinkedIn: [nisrine-c](https://linkedin.com/in/nisrine-c-a8520a235)
+Portfolio: [chakirnisa.dev](https://www.chakirnisa.dev/)</br>
+LinkedIn: [nisrine-c](https://linkedin.com/in/nisrine-c-a8520a235)
 
 # 💻 Tech Stack:
 
