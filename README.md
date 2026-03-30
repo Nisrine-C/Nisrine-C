@@ -7,6 +7,8 @@ Most of my work revolves around backend development with Spring, microservices, 
 Portfolio: [chakirnisa.dev](https://www.chakirnisa.dev/)</br>
 LinkedIn: [nisrine-c](https://linkedin.com/in/nisrine-c-a8520a235)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisrine-c)](https://github.com/anuraghazra/github-readme-stats)
+
 # 💻 Tech Stack:
 
 ##### Languages
