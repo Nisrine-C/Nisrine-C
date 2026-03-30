@@ -7,7 +7,10 @@ Most of my work revolves around backend development with Spring, microservices, 
 Portfolio: [chakirnisa.dev](https://www.chakirnisa.dev/)</br>
 LinkedIn: [nisrine-c](https://linkedin.com/in/nisrine-c-a8520a235)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nisrine-c&show_icons=true&theme=tokyonight)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nisrine-C&theme=tokyonight)](https://git.io/streak-stats)  
+[![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nisrine-C&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nisrine-C&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # 💻 Tech Stack:
 
