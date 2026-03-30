@@ -7,9 +7,6 @@ Most of my work revolves around backend development with Spring, microservices, 
 Portfolio: [chakirnisa.dev](https://www.chakirnisa.dev/)</br>
 LinkedIn: [nisrine-c](https://linkedin.com/in/nisrine-c-a8520a235)
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nisrine-C&theme=tokyonight)](https://git.io/streak-stats)  
-
 # 💻 Tech Stack:
 
 ##### Languages
@@ -48,7 +45,8 @@ LinkedIn: [nisrine-c](https://linkedin.com/in/nisrine-c-a8520a235)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-#### Random Dev Quote
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nisrine-C&theme=tokyonight)](https://git.io/streak-stats)  
+#### Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
