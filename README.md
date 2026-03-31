@@ -7,7 +7,7 @@ Most of my work revolves around backend development with Spring, microservices, 
 Portfolio: [chakirnisa.dev](https://www.chakirnisa.dev/)</br>
 LinkedIn: [nisrine-c](https://linkedin.com/in/nisrine-c-a8520a235)
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ##### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
