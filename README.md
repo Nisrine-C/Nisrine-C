@@ -23,7 +23,7 @@ LinkedIn: [nisrine-c](https://linkedin.com/in/nisrine-c-a8520a235)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony?style=for-the-badge&logo=symfony&logoColor=%2361DA8D)
+![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 
 ##### DevOps & Tools
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -45,6 +45,9 @@ LinkedIn: [nisrine-c](https://linkedin.com/in/nisrine-c-a8520a235)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
+![](https://github-readme-stats.shion.dev/api?username=Nisrine-C&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Nisrine-C&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nisrine-C&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nisrine-C&theme=tokyonight)](https://git.io/streak-stats)  
 #### Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
