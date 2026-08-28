@@ -47,8 +47,7 @@ LinkedIn: [nisrine-c](https://linkedin.com/in/nisrine-c-a8520a235)
 
 ![](https://github-readme-stats.shion.dev/api?username=Nisrine-C&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Nisrine-C&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nisrine-C&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nisrine-C&theme=tokyonight)](https://git.io/streak-stats)  
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nisrine-C&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 #### Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
